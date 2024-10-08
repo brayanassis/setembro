@@ -1,0 +1,28 @@
+
+
+
+.root{
+   --texte-color: #DBE4EF;
+   --card-front-color: #144480;
+   --card-back-color: #00F4BF;
+
+}
+body{
+    background: url('assets/bg-desktop.jpn');
+    font-family:  Bai Jamjuree;
+
+}
+
+#container{
+
+    display: flex;
+}
+
+.cartao{
+
+    margin: 1rem 1rem;
+    background-color: aqua;
+
+
+
+}
